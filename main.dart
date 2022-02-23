@@ -66,7 +66,7 @@ class CalcAppState extends State<CalcApp> {
                     style: GoogleFonts.rubik(
                       textStyle: TextStyle(
                         fontSize: 24,
-                        color: Color(0xFF545F61),
+                        color: Color(0xFFF5F5F5),
                       ),
                     ),
                   ),
